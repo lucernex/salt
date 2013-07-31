@@ -23,3 +23,7 @@ Install a master. Every option available in the master template can be set in th
       minion:
         user: saltuser
         ...
+
+
+
+commit test
